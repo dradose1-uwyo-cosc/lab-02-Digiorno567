@@ -18,7 +18,7 @@ print("hello_message")
 
 # Assign the string "cowboy joe" to a variable, and print that variable with title casing
 cowboy= "cowboy joe"
-print(cowboy.title)
+print(cowboy.title())
 
 # Complete the following f-string print message 
     # You will need to create your own variables and insert them  
